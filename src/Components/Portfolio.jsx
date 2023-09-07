@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "API Election",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An API that returns the details of the elected members for the election 2079 and the votes they gained in real time.",
+    url: "https://github.com/Anupamaraie/Api-Election",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Login-Signup",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a Django web framework based Login/Signup system which uses email verification system to verify your account.",
+    url: "https://github.com/Anupamaraie/Login-SignUp",
   },
   {
-    title: "My Resume Site",
+    title: "Banking Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "This is the first assignment project that I got as a freshman. This system contains options that any banking system has from taking loans to atm services and so on.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Plant Disease Classification",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is an AI-based model that takes an input in the form of Image and returns the predicted disease using FastAPI.",
+    url: "https://github.com/Anupamaraie/Plant-Disease-Classification",
   },
 ];
 

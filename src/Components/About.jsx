@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an AI/ML enthusiast with a passion for solving problems using innovations. I am also the vice-president at OSAC, a Leapfrog student partner and also a student ambassador at NAAMI.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Django",
+  "Databases (SQL)",
+  "Python",
+  "Rest API",
+  "Machine Learning",
+  "Tensoflow, Keras",
+  "C/C++",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my experiences in the various things I have learnt, I continually look for new and better ways to solve pressing issues of the world.";
 
 const About = () => {
   return (
